@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.dpratt</groupId>
+    <groupId>org.dpratt</groupId>
     <artifactId>spray-finagle-connector</artifactId>
     <version>1.0-SNAPSHOT</version>
 
